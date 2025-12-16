@@ -1,1 +1,2 @@
 This is the first .txt file extension that I know learning from theodinproject
+We are making progress, just slowly but as time goes by we will get there
